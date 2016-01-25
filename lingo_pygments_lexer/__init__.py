@@ -1,0 +1,1 @@
+from .lingo import LingoLexer
